@@ -1,6 +1,6 @@
 # bet_cracker
 Bet cracker - Crack bet sites easiestly with python
-## Installing
+## Installing and usage
   ```
   1.first , download script :)
   2.then , open termianl and type : python bet_cracker.py
